@@ -12,3 +12,7 @@ more about MySQL database click [here](https://dev.mysql.com/doc/). Code Igniter
 Code Igniter click [here](https://dev.mysql.com/doc/).
 
 Goto Online Working Web [SLPIOT](http://slpiot.org)
+
+<p align="center">
+  <img src="https://github.com/SLPIOT/SLPIOT_CORE/blob/master/Capture.PNG"/>
+</p>
